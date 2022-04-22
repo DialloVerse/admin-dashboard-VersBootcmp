@@ -1,0 +1,2 @@
+cd application && npm start - ON VS Code
+cd Documents/Project/application && npm start - ON Terminal
