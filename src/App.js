@@ -1,16 +1,9 @@
-import Sidebar from "./components/sidebar/Sidebar";
-import './App.css';
+import Topbar from './components/topbar/Topbar';
 
 function App() {
-  return (
-  <div>
-    I added this again
-    <div className="container">
-      <Sidebar/>
-      other pages
-    </div>
-    </div>
-    );
+  return <div>
+    <Topbar/>
+    </div>;
 }
 
 export default App;
