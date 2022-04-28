@@ -1,6 +1,7 @@
 import "./chart.css"
-export default function Chart() {
+import { LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, Legend, ResponsiveContainer } from "recharts"
 
+export default function Chart() {
     
   return (
     <div className="chart">
