@@ -38,7 +38,7 @@ export default function Sidebar() {
             <div className="sidebarMenu">
                 <h3 className="sidebarTitle">Quick Menu</h3>
                 <ul className="sidebarList">
-                   <li className="sidebarListItem">
+                   <li className="sidebarListItem active">
                        <PermIdentity className="sidebarIcon" />
                        Users
                        </li> 
