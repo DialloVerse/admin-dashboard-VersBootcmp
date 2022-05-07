@@ -17,51 +17,61 @@ export default function WidgetLg() {
                 <tr className="widgetLgTr">
                     <td className="widgetLgUser">
                        <img 
-                       src="https://images.pexels.com/photos/6829557/pexels-photo-6829557.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+                       src="https://images.pexels.com/photos/2853592/pexels-photo-2853592.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
                        alt="" 
-                       className="widgetLgIm"
+                       className="widgetLgImg"
                         />
-                       <span className="widgetLgName"></span>
+                       <span className="widgetLgName">Amebo Explorer</span>
                     </td>
                     <td className="widgetLgDate">2 Jun 2021</td>
                     <td className="widgetLgAmount">246$.00</td>
-                    <td className="widgetLgStatus"><Button type="Approved" />
+                    <td className="widgetLgStatus">
+                        <Button type="Approved" />
                     </td>
                 </tr>
                 <tr className="widgetLgTr">
                     <td className="widgetLgUser">
-                       <img src="https://images.pexels.com/photos/6829557/pexels-photo-6829557.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+                       <img 
+                       src="https://images.pexels.com/photos/2853592/pexels-photo-2853592.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
                        alt="" 
-                       className="widgetLgIm" />
-                       <span className="widgetLgName"></span>
+                       className="widgetLgImg" 
+                       />
+                       <span className="widgetLgName">Amebo Explorer</span>
                     </td>
                     <td className="widgetLgDate">2 Jun 2021</td>
                     <td className="widgetLgAmount">246$.00</td>
-                    <td className="widgetLgStatus"><Button type="Declined" />
+                    <td className="widgetLgStatus">
+                        <Button type="Declined" />
                     </td>
                 </tr>
                 <tr className="widgetLgTr">
                     <td className="widgetLgUser">
-                       <img src="https://images.pexels.com/photos/6829557/pexels-photo-6829557.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+                       <img 
+                       src="https://images.pexels.com/photos/2853592/pexels-photo-2853592.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
                        alt="" 
-                       className="widgetLgIm" />
-                       <span className="widgetLgName"></span>
+                       className="widgetLgImg" 
+                       />
+                       <span className="widgetLgName">Amebo Explorer</span>
                     </td>
                     <td className="widgetLgDate">2 Jun 2021</td>
                     <td className="widgetLgAmount">246$.00</td>
-                    <td className="widgetLgStatus"><Button type="Pending" />
+                    <td className="widgetLgStatus">
+                        <Button type="Pending" />
                     </td>
                 </tr>
                 <tr className="widgetLgTr">
                     <td className="widgetLgUser">
-                       <img src="https://images.pexels.com/photos/6829557/pexels-photo-6829557.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+                       <img 
+                       src="https://images.pexels.com/photos/2853592/pexels-photo-2853592.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
                        alt="" 
-                       className="widgetLgIm" />
-                       <span className="widgetLgName"></span>
+                       className="widgetLgImg" 
+                       />
+                       <span className="widgetLgName">Amebo Explorer</span>
                     </td>
                     <td className="widgetLgDate">2 Jun 2021</td>
                     <td className="widgetLgAmount">246$.00</td>
-                    <td className="widgetLgStatus"><Button type="Approved" />
+                    <td className="widgetLgStatus">
+                        <Button type="Approved" />
                     </td>
                 </tr>
             </table>
