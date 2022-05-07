@@ -24,7 +24,7 @@ export default function WidgetLg() {
                        <span className="widgetLgName">Amebo Explorer</span>
                     </td>
                     <td className="widgetLgDate">2 Jun 2021</td>
-                    <td className="widgetLgAmount">246$.00</td>
+                    <td className="widgetLgAmount">$246.00</td>
                     <td className="widgetLgStatus">
                         <Button type="Approved" />
                     </td>
@@ -39,7 +39,7 @@ export default function WidgetLg() {
                        <span className="widgetLgName">Amebo Explorer</span>
                     </td>
                     <td className="widgetLgDate">2 Jun 2021</td>
-                    <td className="widgetLgAmount">246$.00</td>
+                    <td className="widgetLgAmount">$246.00</td>
                     <td className="widgetLgStatus">
                         <Button type="Declined" />
                     </td>
@@ -54,7 +54,7 @@ export default function WidgetLg() {
                        <span className="widgetLgName">Amebo Explorer</span>
                     </td>
                     <td className="widgetLgDate">2 Jun 2021</td>
-                    <td className="widgetLgAmount">246$.00</td>
+                    <td className="widgetLgAmount">$246.00</td>
                     <td className="widgetLgStatus">
                         <Button type="Pending" />
                     </td>
@@ -69,7 +69,7 @@ export default function WidgetLg() {
                        <span className="widgetLgName">Amebo Explorer</span>
                     </td>
                     <td className="widgetLgDate">2 Jun 2021</td>
-                    <td className="widgetLgAmount">246$.00</td>
+                    <td className="widgetLgAmount">$246.00</td>
                     <td className="widgetLgStatus">
                         <Button type="Approved" />
                     </td>
