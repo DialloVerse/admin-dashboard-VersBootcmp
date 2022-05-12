@@ -1,5 +1,12 @@
-import { CalendarToday, LocationSearching, MailOutline, PermIdentity, PhoneAndroid, Publish } from '@mui/icons-material';
-import { Link } from '@mui/material';
+import {
+    CalendarToday,
+    LocationSearching,
+    MailOutline,
+    PermIdentity,
+    PhoneAndroid,
+    Publish
+} from '@mui/icons-material';
+import { Link } from "react-router-dom";
 import "./user.css";
 
 export default function User() {
@@ -63,7 +70,8 @@ export default function User() {
                         </div>
                         <div className="userUpdateItem">
                             <label>Full Name</label>
-                            <input type="text" 
+                            <input 
+                            type="text" 
                             placeholder="Anna Bombo" 
                             className="userUpdateInput" 
                             />
@@ -95,7 +103,8 @@ export default function User() {
                     </div>
                     <div className="userUpdateRight">
                         <div className="userUpdateUpload">
-                           <img className="userUpdateImg" 
+                           <img 
+                           className="userUpdateImg" 
                            src="https://images.pexels.com/photos/46317/pexels-photo-46317.jpeg" 
                            alt="" 
                            />

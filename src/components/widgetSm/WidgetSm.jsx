@@ -24,7 +24,7 @@ export default function WidgetSm() {
         <li className="widgetSmListItem">
             <img
              src="https://images.pexels.com/photos/4959254/pexels-photo-4959254.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
-            alt=""
+             alt=""
              className="widgetSmImg"
               />
             <div className="widgetSmUser">

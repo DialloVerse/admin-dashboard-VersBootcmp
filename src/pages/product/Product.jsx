@@ -3,12 +3,13 @@ import { Link } from "react-router-dom";
 import Chart from "../../components/chart/Chart";
 import { productData } from "../../dummyData";
 import "./product.css";
+
 export default function Product() {
   return (
     <div className="product">
         <div className="productTitleContainer">
             <h1 className="productTitle">Product</h1>
-            <Link to="/newProduct">
+            <Link to="/newproduct">
             <button className="productAddButton">Create</button>
             </Link>
         </div>
@@ -18,11 +19,7 @@ export default function Product() {
             </div>
             <div className="productTopRight">
                 <div className="productInfoTop">
-                    <img 
-                    src="https://images.pexels.com/photos/8224531/pexels-photo-8224531.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" 
-                    alt="" 
-                    className="productInfoImg" 
-                    />
+                    <img src="https://images.pexels.com/photos/8224531/pexels-photo-8224531.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="" className="productInfoImg" />
                     <span className="productName">Recommended Racket</span>
                 </div>
                 <div className="productInfoBottom">
@@ -63,10 +60,7 @@ export default function Product() {
                 </div>
                 <div className="productFormRight">
                     <div className="productUpload">
-                        <img src="https://images.pexels.com/photos/8224531/pexels-photo-8224531.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" 
-                        alt="" 
-                        className="productUploadImg" 
-                        />
+                        <img src="https://images.pexels.com/photos/8224531/pexels-photo-8224531.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="" className="productUploadImg" />
                         <label for="file">
                             <Publish/>
                         </label>
