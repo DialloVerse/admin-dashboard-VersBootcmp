@@ -18,7 +18,7 @@ export default function UserList() {
             field: "user", 
             headerName: "User", 
             width: 200, 
-            renderCell: (params)=>{
+            renderCell: (params) =>{
             return (
                 <div className="userListUser">
                     <img className="userListImg" src={params.row.avatar} alt=""/>
@@ -44,7 +44,7 @@ export default function UserList() {
               renderCell: (params)=>{
                   return(
                       <>
-                      <Link to={"/user"+params.row.id}>
+                      <Link to={"/user/" + params.row.id}>
                      <button className="userListEdit">Edit</button>
                      </Link>
                     <DeleteOutline 
@@ -63,8 +63,7 @@ export default function UserList() {
         rows={data} 
         disableSelectionOnClick 
         columns={columns} 
-        pageSize={8} 
-        rowsPerPageOptions={[5]} 
+        pageSize={8}
         checkboxSelection />
     </div>
   )

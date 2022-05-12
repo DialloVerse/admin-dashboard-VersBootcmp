@@ -49,13 +49,13 @@ export default function Product() {
                     <input type="text" placeholder="Recommended Racket" />
                     <label>In Stock</label>
                     <select name="inStock" id="inStock">
-                        <option value="Yes">Yes</option>
-                        <option value="No">No</option>
+                        <option value="yes">Yes</option>
+                        <option value="no">No</option>
                     </select>
                     <label>Active</label>
                     <select name="active" id="active">
-                        <option value="Yes">Yes</option>
-                        <option value="No">No</option>
+                        <option value="yes">Yes</option>
+                        <option value="no">No</option>
                     </select>
                 </div>
                 <div className="productFormRight">

@@ -96,8 +96,7 @@ export default function Sidebar() {
                        Reports
                        </li> 
                 </ul>
-            </div>
-                   
+            </div>  
         </div>
     </div>
   )

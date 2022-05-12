@@ -1,5 +1,5 @@
-import "./featuredInfo.css"
-import { ArrowDownward, ArrowUpward } from "@mui/icons-material"
+import { ArrowDownward, ArrowUpward } from "@mui/icons-material";
+import "./featuredInfo.css";
 
 export default function FeatuturedInfo() {
   return (
@@ -35,5 +35,5 @@ export default function FeatuturedInfo() {
             <span className="featuredSub">Compared to last month</span>
         </div>
         </div>
-  )
+  );
 }
