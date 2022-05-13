@@ -27,7 +27,7 @@ export default function User() {
                     className="userShowImg" 
                     />
                     <div className="userShowTopTitle">
-                        <span className="userShowUsername">Anna Bombo</span>
+                        <span className="userShowUsername">Marco Bombo</span>
                         <span className="userShowUserTitle">Forest Surveyor</span>
                     </div>
                     </div>
@@ -35,7 +35,7 @@ export default function User() {
                     <span className="userShowTitle">Account Details</span>
                     <div className="userShowInfo">
                     <PermIdentity className="userShowIcon"/>
-                    <span className="userShowInfoTitle">annabombo99</span>
+                    <span className="userShowInfoTitle">marcobombo99</span>
                     </div>
                     <div className="userShowInfo">
                     <CalendarToday className="userShowIcon"/>
@@ -48,7 +48,7 @@ export default function User() {
                     </div>
                     <div className="userShowInfo">
                     <MailOutline className="userShowIcon"/>
-                    <span className="userShowInfoTitle">annabombo@gmail.com</span>
+                    <span className="userShowInfoTitle">marcobombo@gmail.com</span>
                     </div>
                     <div className="userShowInfo">
                     <LocationSearching className="userShowIcon"/>
@@ -64,7 +64,7 @@ export default function User() {
                             <label>Username</label>
                             <input 
                             type="text" 
-                            placeholder="annabombo99" 
+                            placeholder="marcobombo99" 
                             className="userUpdateInput" 
                             />
                         </div>
@@ -72,7 +72,7 @@ export default function User() {
                             <label>Full Name</label>
                             <input 
                             type="text" 
-                            placeholder="Anna Bombo" 
+                            placeholder="Marco Bombo" 
                             className="userUpdateInput" 
                             />
                         </div>
@@ -80,7 +80,7 @@ export default function User() {
                             <label>Email</label>
                             <input 
                             type="text" 
-                            placeholder="annabombo@gmail.com" 
+                            placeholder="marcobombo@gmail.com" 
                             className="userUpdateInput" 
                             />
                         </div>
