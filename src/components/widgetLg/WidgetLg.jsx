@@ -36,7 +36,7 @@ export default function WidgetLg() {
                        alt="" 
                        className="widgetLgImg" 
                        />
-                       <span className="widgetLgName">Amebo Explorer</span>
+                       <span className="widgetLgName">Ivory Shield</span>
                     </td>
                     <td className="widgetLgDate">2 Jun 2021</td>
                     <td className="widgetLgAmount">$246.00</td>
@@ -51,7 +51,7 @@ export default function WidgetLg() {
                        alt="" 
                        className="widgetLgImg" 
                        />
-                       <span className="widgetLgName">Amebo Explorer</span>
+                       <span className="widgetLgName">Autumn Recollection</span>
                     </td>
                     <td className="widgetLgDate">2 Jun 2021</td>
                     <td className="widgetLgAmount">$246.00</td>
@@ -66,7 +66,7 @@ export default function WidgetLg() {
                        alt="" 
                        className="widgetLgImg" 
                        />
-                       <span className="widgetLgName">Amebo Explorer</span>
+                       <span className="widgetLgName">Khalil Diallo</span>
                     </td>
                     <td className="widgetLgDate">2 Jun 2021</td>
                     <td className="widgetLgAmount">$246.00</td>
